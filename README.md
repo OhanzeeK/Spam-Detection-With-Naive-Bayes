@@ -1,7 +1,8 @@
 # Spam-Detection-With-Naive-Bayes
 A spam detection mockup I created to test the Naive Bayes classifier in Scala/Spark for a class project.
 
-**Objective:** Implement a logistic regression model to identify potentially fraudulent online transactions
+**Objective:** Implement a Naïve Bayes classifier to distinguish spam emails from legitimate
+emails using word-frequency features.
 
 **Data Description:**
  - **Columns:**
